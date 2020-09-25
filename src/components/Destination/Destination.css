@@ -1,0 +1,11 @@
+
+.card{
+    width: 220px;
+    height: 200px;
+    cursor: pointer;
+    color: white;
+    border-radius: 20px;
+}
+.card-title{
+    margin-top: 270px;
+}
